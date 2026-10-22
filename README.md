@@ -8,6 +8,10 @@ A web-based application that allows users to encrypt and decrypt files using pas
 
 **GitHub Repository:** https://github.com/naveenyadav1306/File-Encryption-Decryption-Tool
 
+## 📸 Project Preview
+
+![File Encryption & Decryption Tool](file-encryption-tool-demo.png.png)
+
 ## ✨ Features
 
 - **File Encryption:** Encrypt files using a password.
