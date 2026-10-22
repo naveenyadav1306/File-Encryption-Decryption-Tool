@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.py[cod]
+test.txt
+test.txt.enc
+decrypted_test.txt
